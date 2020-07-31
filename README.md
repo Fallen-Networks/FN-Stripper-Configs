@@ -1,4 +1,6 @@
-# skillsurf-csgo
-Stripper fixes for skill surf maps on CS:GO
+# FN-Stripper-Configs
+Stripper fixes for different maps on CS:GO in use by the Fallen-Networks Servers
 
-I will be keeping this repo up to date with every fix I make from now on, make a issue for a broken map or something that needs fixing
+Also has a backup of generalized surf stripper fixes made by community members.
+
+All changes commented in CHANGELOG.md
